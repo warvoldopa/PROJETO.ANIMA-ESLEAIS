@@ -1,0 +1,19 @@
+
+body {
+    background-color: black;
+    color: aliceblue;
+    font-family:Arial;
+    text-align:"center";
+    font-size: 18px;
+}
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+
